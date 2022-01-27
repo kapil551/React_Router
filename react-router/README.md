@@ -45,3 +45,15 @@
 5. Active Links:
 
     - https://reactrouter.com/docs/en/v6/api#navlink
+
+6. Navigating Programmatically:
+
+    - Ex: On successfull order place, navigate programmatically to the order-summary page
+
+    - https://reactrouter.com/docs/en/v6/api#usenavigate
+
+    - https://reactrouter.com/docs/en/v6/api#navigate
+
+7. No Match Route:
+
+    - https://reactrouter.com/docs/en/v6/getting-started/overview#not-found-routes
