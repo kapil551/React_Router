@@ -57,3 +57,15 @@
 7. No Match Route:
 
     - https://reactrouter.com/docs/en/v6/getting-started/overview#not-found-routes
+
+8. Nested Routes:
+
+    - https://reactrouter.com/docs/en/v6/getting-started/overview#nested-routes
+
+    - ```"/products"```
+
+        - ```"/products/featured"```
+
+        - ```"/products/new"```
+
+        - ```"/products/:productId"```

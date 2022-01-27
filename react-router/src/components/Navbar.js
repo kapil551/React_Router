@@ -20,7 +20,7 @@ function Navbar() {
         isActive ? activeStyle : undefined
     );
   }
-  
+
   return (
     <nav
       style={{
@@ -36,6 +36,12 @@ function Navbar() {
         style={navLinkStyles}
       >
         Home
+      </NavLink>
+      <NavLink
+        to="/products"
+        style={navLinkStyles}
+      >
+        Products
       </NavLink>
       <NavLink
         to="/about"
