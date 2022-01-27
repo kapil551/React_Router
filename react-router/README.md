@@ -40,4 +40,8 @@
 
 4. Links:
 
-    - 
+    - https://reactrouter.com/docs/en/v6/api#link
+
+5. Active Links:
+
+    - https://reactrouter.com/docs/en/v6/api#navlink
