@@ -33,3 +33,7 @@
     - https://reactrouter.com/
 
     - https://reactrouter.com/docs/en/v6/getting-started/installation
+
+3. Configuring Routes:
+
+    - 
