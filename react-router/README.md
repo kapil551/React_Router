@@ -69,3 +69,7 @@
         - ```"/products/new"```
 
         - ```"/products/:productId"```
+
+9. Index Routes:
+
+    - https://reactrouter.com/docs/en/v6/getting-started/overview#index-routes
