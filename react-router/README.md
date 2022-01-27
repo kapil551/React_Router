@@ -27,3 +27,9 @@
     - Authentication
 
     - And few more topics...
+
+2. React Router Installation and Setup:
+
+    - https://reactrouter.com/
+
+    - https://reactrouter.com/docs/en/v6/getting-started/installation
